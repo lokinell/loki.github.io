@@ -3,14 +3,13 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Loki Luo's Blog
+title: 梦的河流
 subtitle:
 description:
-author: John Doe
-language:zh
+author: Loki Luo
+language:
 timezone:
 
-# URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
 url: http://yoursite.com
 root: /
