@@ -71,7 +71,7 @@ stylus:
 deploy:
   type: git
   repository: https://github.com/lokinell/loki.github.io.git
-  branch: master
+  branch: gh-pages
 
 
 feed:
