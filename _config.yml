@@ -11,7 +11,7 @@ language: zh-CN
 timezone:
 
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://lokinell.github.io/loki.github.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -72,3 +72,11 @@ deploy:
   type: git
   repository: https://github.com/lokinell/loki.github.io.git
   branch: master
+
+
+feed:
+    type: atom
+    path: atom.xml
+    limit: 0
+sitemap:
+    path: sitemap.xml
